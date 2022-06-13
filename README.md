@@ -2,7 +2,7 @@
 
 # Authenticator
 
-This is a ruby practice repo, which contains a simple calculator
+This is a ruby practice repo, which contains a simple calculator, array methods, hashes and an authenticator password, where it retuns username and password if they the user inputs correctly, and returns wrong username or password if they don't match
 
 ## Built With
 
