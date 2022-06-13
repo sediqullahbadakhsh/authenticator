@@ -2,7 +2,7 @@
 
 # Authenticator
 
-In this project we learned how to use a module inside our class. For this we created a class `my_list` and a module `my_enumerable` that implements a subset of the functionality of Enumerable.
+This is a ruby practice repo, which contains a simple calculator
 
 ## Built With
 
